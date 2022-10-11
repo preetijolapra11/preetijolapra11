@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @preetijolapra11
-- 🌱 I’m currently working on various web based applications and bug fixing projects
-- 💞️ I’m looking to collaborate on angular, ionic, laravel, php based web applications and hybrid mobile apps.
+- 👋 Hi, I’m Preeti Jolapra11
+- 🌱 I’m currently working on development of various web based applications and bug fixing
+- 💞️ I’m looking to collaborate on Angular, Ionic, Laravel, Php based web applications and hybrid mobile apps.
 - 📫 You can reach me by drop an email at preetijolapra11@gmail.com 
 
 <!---
